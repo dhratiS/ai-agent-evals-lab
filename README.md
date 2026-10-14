@@ -1,6 +1,7 @@
 # AI Agent Evals Lab
 
 A hands-on project for learning how to evaluate AI agents.
+Day-by-day AI agent evaluation exercises and benchmarking scripts
 
 ## Day 1: Refund Outcome Evaluation
 
