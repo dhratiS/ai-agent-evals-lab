@@ -1,0 +1,22 @@
+{
+  "total_runs": 3,
+  "passed_runs": 1,
+  "task_success_rate_percent": 33.3,
+  "results": [
+    {
+      "run_id": "A",
+      "passed": true,
+      "reason": "Exactly one correct refund succeeded."
+    },
+    {
+      "run_id": "B",
+      "passed": false,
+      "reason": "Expected exactly one refund record."
+    },
+    {
+      "run_id": "C",
+      "passed": false,
+      "reason": "Refund was created for the wrong order."
+    }
+  ]
+}
